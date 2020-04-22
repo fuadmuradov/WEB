@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap');
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: 0;
+
+}
+.card-container{
+	width: 700px;
+	height: 750px;
+	background-color: white;
+	margin: 25px auto;
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 15px;
+}
+
+.box{
+	border-width: 15px;
+	border-color: #bdc3c7;
+	border-style: solid;
+}
+
+.card-text1{
+	color: #3498db;
+	padding: 10px;
+	text-align: center;
+	letter-spacing: 3px; 
+}
+
+.card-text2{
+	font-weight:900;
+	font-size: 30px;
+	
+	
+	letter-spacing: 3px; 
+}
+
+.card-text3{
+	padding: 3px;
+}
+.box2{
+	border-left-width: 7px;
+	border-left-color: #bdc3c7;
+    border-style: solid;
+    border-bottom-color: white;
+	border-right-color: white;
+	border-top-color: white;
+}
