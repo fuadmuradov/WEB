@@ -1,0 +1,107 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+body{
+	background: url("../photo/back10.jpg") no-repeat center center fixed;
+	background-size: cover;
+ 
+ 	margin: 0;
+}
+h1{
+	color: gold;
+	display: inline-grid;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 17px;
+}
+
+h2{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 30px;
+	color: red;
+		margin-top: 150px;
+	margin-left:100px;
+	
+}
+
+a{
+
+	text-underline-position: auto;
+}
+
+p{
+font-family: 'Pacifico', cursive;
+font-size: 25px;
+color: white;
+	margin-left:100px;
+
+}
+
+span{
+	color: red;
+}
+.container{
+
+
+width: 100%;
+height: 800px;
+float: left;
+
+
+}
+.navbar{
+
+width: 100%;
+height: 70px;
+}
+
+.firsth1{
+color: gold;
+margin-left: 30px;
+margin-bottom: 50px;
+margin-right: 350px;
+}
+
+.secondh1{
+	margin-left: 280px;
+}
+
+.thirdh1{
+margin-left: 50px;
+}
+
+.fourth1{
+margin-left: 50px;
+}
+
+
+
+.avatar{
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+
+}
+
+
+.main-text{
+	width:300px;
+	height: 400px;
+	background-color: black;
+
+}
+
+.profil{
+	border-radius: 50%;
+	width: 450px;
+	height: 450px;
+	margin-right: 300px;
+	margin-top: 100px;
+	float: right;
+}

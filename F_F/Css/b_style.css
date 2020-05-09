@@ -1,0 +1,149 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+
+body{
+	background: url("../photo/back10.jpg") no-repeat center center fixed;
+	background-size: cover;
+ 
+ 	margin: 0;
+}
+h1{
+	color: gold;
+	display: inline-grid;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 17px;
+}
+
+h2{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 30px;
+	color: red;
+		margin-top: 150px;
+	margin-left:100px;
+	
+}
+h3{
+	font-family: 'Permanent Marker', cursive;
+	font-size: 45px;
+	color: red;
+}
+
+li{
+
+font-family: 'Pacifico', cursive;
+font-size: 35px;
+color: white;
+
+
+}
+
+a{
+
+	text-underline-position: auto;
+}
+
+
+.photo-img{
+width: 150px;
+height: 150px;
+border-radius: 50%;
+margin: 20px;
+
+}
+.container{
+
+
+width: 100%;
+height: 800px;
+float: left;
+
+
+}
+.navbar{
+	
+width: 100%;
+height: 60px;
+}
+
+.firsth1{
+color: gold;
+margin-left: 30px;
+align-items: center;
+margin-right: 350px;
+}
+
+.secondh1{
+	margin-left: 280px;
+
+}
+
+.thirdh1{
+margin-left: 50px;
+}
+
+.fourth1{
+margin-left: 50px;
+}
+
+
+
+.avatar{
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+
+}
+
+.container-2{
+	display:flex;
+	justify-content: space-between;
+	width: 610px;
+	height: 600px;
+
+	align-items: center;
+}
+
+ .box-main{
+
+ 	display:flex;
+
+ 		margin-left: 100px;
+	margin-top: 100px; 
+	width: 650px;
+	height: 600px;
+
+
+
+ }
+.container-2 div{
+	
+	width: 200px;
+	height: 400px;
+	color: white;
+
+padding: 10px;
+
+}
+
+
+
+.box-photo{
+
+width: 600px;
+height: 600px;
+margin-top: 100px;
+margin-left: 30px;
+float: left;
+
+}
+
+.fuad-con{
+	display: flex;
+}
